@@ -1,1 +1,1 @@
-
+- create command name `php artisan make:command CreateUserCommand`
